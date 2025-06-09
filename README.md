@@ -14,5 +14,3 @@ I constantly work on improving my skills through self-learning and personal proj
 - Docker  
 - Git & GitHub  
 - Postman  
-
-Feel free to check out my repositories or connect with me!
